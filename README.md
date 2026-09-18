@@ -295,6 +295,6 @@ The practicals focus on applying theory through hands-on implementation and expe
 
 ## Author
 
-### Neeyati Vijjeswarapu 
+### Neeyati Vijjeswarapu
 
 **Computer Science Student**
